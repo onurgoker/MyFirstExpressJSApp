@@ -1,2 +1,2 @@
-# MyFirstExpressJSApp
+# MyFirstExpressJsApp
 My First ExpressJS Application
